@@ -1,0 +1,42 @@
+GCP has a lot of common terminology with AWS and maybe Azure 
+Elasticity is an important thing in the cloud
+When answering the questions, make sure to do the “best practices”
+CapEx - on premise vs Op-Ex - in cloud
+Google owns own subsea cables across the world
+Network edge - where we connect to the network
+
+IaaS - computing resources on demand (Bare Metal)
+PaaS - complete environments (AppSheets…)
+SaaS - the software is centrally hosted and accessed (Gmail, Docs, etc.)
+
+Firestore is the fast NoSQL DB
+NoSQL - AI/ML, BigTable
+Object storage - image
+BigQuery - data warehouse; serverless; multi-cloud; scalable; relational (no images)
+Data Warehouse = noSQL
+Migrating the DB -> Lift And Shift ; Replatforming; refactoring; retiring/replacing
+Looker = PowerBI. Works with BigQuery
+Pub/Sub - service that sends and receives
+Dataflow = Databricks 
+
+AI and ML
+AI > ML > DL
+Pre-trained APIs, then AutoML, then Custom built like Vertex
+BigQueryML - allows users to run queries with SQL in this SaaS product
+AutoML - doesn’t require any expertise in AI models, easy to build quick Ml model
+Vertex - more low-level AI/ML solution
+Apogee - API management system
+
+VMs:
+	Compute Engine = VMs
+	VMWare Engine
+	Bare Metal - you responsible for manage infrastructure (doesn’t share machines with any other app)
+Containers:
+	GKE - Containers and Kubernetes
+Serverless:
+	Cloud Run - serverless containers; 
+	Cloud Functions - functions as a service; process images or anything like that
+	App Engine - PaaS to develop and host webApps; any programming language (outdated)
+Servers -> CMs (on premises) -> IaaS -> Containers
+API can help modernize the legacy systems. API is a gateway to get to the back-end legacy system
+Apigee tool is used to manage APIs	
