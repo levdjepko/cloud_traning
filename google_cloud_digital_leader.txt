@@ -3,8 +3,8 @@
 GCP has a lot of common terminology with AWS and maybe Azure 
 Elasticity is an important thing in the cloud
 When answering the questions, make sure to do the “best practices”
-CapEx - on premise vs Op-Ex - in cloud
-Google owns own subsea cables across the world
+CapEx - on-premise vs Op-Ex - in cloud
+Google owns its own subsea cables across the world
 Network edge - where we connect to the network
 
 IaaS - computing resources on demand (Bare Metal)
@@ -32,13 +32,13 @@ Apogee - API management system
 VMs:
 	Compute Engine = VMs
 	VMWare Engine
-	Bare Metal - you responsible for manage infrastructure (doesn’t share machines with any other app)
+	Bare Metal - you are responsible for managing infrastructure (don’t share machines with any other app)
 Containers:
 	GKE - Containers and Kubernetes
 Serverless:
 	Cloud Run - serverless containers; 
 	Cloud Functions - functions as a service; process images or anything like that
-	App Engine - PaaS to develop and host webApps; any programming language (outdated)
+	App Engine - PaaS to develop and host web apps; any programming language (outdated)
 Servers -> CMs (on premises) -> IaaS -> Containers
 API can help modernize the legacy systems. API is a gateway to get to the back-end legacy system
 Apigee tool is used to manage APIs	
