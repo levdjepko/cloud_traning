@@ -1,0 +1,5 @@
+new resume for Machine Learning Engineer
+
+- Preparing, cleaning, processing, and analyzing the data for machine learning 
+- Improving quality of data for the algorithms
+- Tuning and trainign the model with provided datasets, both with AutoML and Custom Models with Vertex AI
