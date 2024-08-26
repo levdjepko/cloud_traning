@@ -4,3 +4,4 @@ new resume for Machine Learning Engineer
 - Improving the quality of data for the algorithms
 - Tuning and training the model with provided datasets, both with AutoML and Custom Models with Vertex AI
 - Creating custom models with TensorFlow using the APIs
+- Feature Engineering
