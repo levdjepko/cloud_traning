@@ -1,4 +1,4 @@
-##  This is some materials that we derived for preparation for the CDL exam by Google ##
+##  These are some materials that we derived for preparation for the CDL exam by Google ##
 ########################################################################################
 GCP has a lot of common terminology with AWS and maybe Azure 
 
