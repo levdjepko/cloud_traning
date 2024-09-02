@@ -1,0 +1,4 @@
+# Some labs from Google ML engineer course to understand how the models behave:
+http://goo.gl/ofiHCT
+http://goo.gl/2NUCAF
+http://goo.gl/ivd4x4
