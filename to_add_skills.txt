@@ -5,3 +5,12 @@ new resume for Machine Learning Engineer
 - Tuning and training the model with provided datasets, both with AutoML and Custom Models with Vertex AI
 - Creating custom models with TensorFlow using the APIs
 - Feature Engineering
+
+
+Train a TensorFlow model locally in a hosted Vertex Notebook.
+Create a managed Tabular dataset artifact for experiment tracking.
+Containerize your training code with Cloud Build and push it to Google Cloud Artifact Registry.
+Run a Vertex AI custom training job with your custom model container.
+Use Vertex TensorBoard to visualize model performance.
+Deploy your trained model to a Vertex Online Prediction Endpoint for serving predictions.
+Request an online prediction and explanation and see the response.
