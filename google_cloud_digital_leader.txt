@@ -2,7 +2,7 @@
 ########################################################################################
 GCP has a lot of common terminology with AWS and maybe Azure 
 
-#
+# #
 Elasticity is an important thing in the cloud
 When answering the questions, make sure to do the “best practices”
 CapEx - on-premise vs Op-Ex - in cloud
