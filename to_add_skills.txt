@@ -14,3 +14,5 @@ Run a Vertex AI custom training job with your custom model container.
 Use Vertex TensorBoard to visualize model performance.
 Deploy your trained model to a Vertex Online Prediction Endpoint for serving predictions.
 Request an online prediction and explanation and see the response.
+
+Working with the models training on both GPUs and TPUs in Google Cloud
