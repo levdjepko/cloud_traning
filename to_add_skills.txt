@@ -1,4 +1,4 @@
-new resume for Machine Learning Engineer
+Skills to add into the new resume for Machine Learning Engineer
 
 - Preparing, cleaning, processing, and analyzing the data for machine learning 
 - Improving the quality of data for the algorithms
@@ -13,6 +13,6 @@ Containerize your training code with Cloud Build and push it to Google Cloud Art
 Run a Vertex AI custom training job with your custom model container.
 Use Vertex TensorBoard to visualize model performance.
 Deploy your trained model to a Vertex Online Prediction Endpoint for serving predictions.
-Request an online prediction and explanation and see the response.
+Request an online prediction and explanation, and see the response.
 
 Working with the models training on both GPUs and TPUs in Google Cloud
