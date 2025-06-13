@@ -5,4 +5,4 @@ The most important skills are:
 - ML
 - SQL
 
-Currently, working in Pluralsight to get through Python training specific to Analytics
+Currently, working in Pluralsight to get through Python training specific to Analytics. Learned more about the python venv and packages
